@@ -27,10 +27,13 @@ If you want the full dataset, download it from Kaggle:
 ## 🔹 How to Run
 1. Clone this repo:
    ```bash
-git clone https://github.com/KIRUMAH-sam/wk-8_FrameworksPy.git
-cd wk-8_FrameworksPy
+   git clone https://github.com/KIRUMAH-sam/wk-8_FrameworksPy.git
+   cd wk-8_FrameworksPy
 
 ## Experience 
 ~The experience with this data analysis in python was one very stressing requires attention to detail constant debugging and patience.
 Challenges occured while load and making a sample data frame there after the analysis was smooth until the addition of the framework streamlit.
 All in all it was a good exercise!
+
+The streamlit application link :
+https://kirumah-sam-wk-8-frameworkspy-app-pnvtia.streamlit.app/
