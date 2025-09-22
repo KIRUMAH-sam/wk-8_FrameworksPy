@@ -27,7 +27,7 @@ If you want the full dataset, download it from Kaggle:
 ## 🔹 How to Run
 1. Clone this repo:
    ```bash
-https://github.com/KIRUMAH-sam/wk-8_FrameworksPy.git
+git clone https://github.com/KIRUMAH-sam/wk-8_FrameworksPy.git
 cd wk-8_FrameworksPy
 
 ## Experience 
